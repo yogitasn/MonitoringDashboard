@@ -18,7 +18,7 @@ To Build a Monitoring Dashboard for Open Ended Capstone Project: Seattle Paid Pa
 ![Alt text](Screenshot/Avg_Blob_Capacity_for_Data_Lake.PNG?raw=true "Avg_Blob_Capacity_for_Data_Lake")
 
 ### `SQL Datawarehouse: Sum of active queries sql pool`
-![Alt text](Screenshot/Avg_Blob_Capacity_for_Data_Lake.PNG?raw=true "Sum of active queries sql pool")
+![Alt text](Screenshot/Sum_of_active_queries_sql_pool.PNG?raw=true "Sum of active queries sql pool")
 
 
 
